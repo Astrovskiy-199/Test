@@ -1,0 +1,23 @@
+avahi-autoipd 109 Avahi autoip daemon,,, /usr/sbin/nologin
+usbmux 110 usbmux daemon,,, /usr/sbin/nologin
+rtkit 111 RealtimeKit,,, /usr/sbin/nologin
+dnsmasq 112 dnsmasq,,, /usr/sbin/nologin
+cups-pk-helper 113 user for cups-pk-helper service,,, /usr/sbin/nologin
+speech-dispatcher 114 Speech Dispatcher,,, /bin/false
+avahi 115 Avahi mDNS daemon,,, /usr/sbin/nologin
+kernoops 116 Kernel Oops Tracking Daemon,,, /usr/sbin/nologin
+saned 117  /usr/sbin/nologin
+nm-openvpn 118 NetworkManager OpenVPN,,, /usr/sbin/nologin
+hplip 119 HPLIP system user,,, /bin/false
+whoopsie 120  /bin/false
+colord 121 colord colour management daemon,,, /usr/sbin/nologin
+geoclue 122  /usr/sbin/nologin
+pulse 123 PulseAudio daemon,,, /usr/sbin/nologin
+gnome-initial-setup 124  /bin/false
+gdm 125 Gnome Display Manager /bin/false
+ac 1000 ac,,, /usr/bin/zsh
+systemd-coredump 999 systemd Core Dumper /usr/sbin/nologin
+_rpc 126  /usr/sbin/nologin
+statd 127  /usr/sbin/nologin
+vde2-net 128  /usr/sbin/nologin
+stunnel4 129  /usr/sbin/nologin
