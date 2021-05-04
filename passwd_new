@@ -1,8 +1,1 @@
 rtkit:x:111:117:RealtimeKit,,,:/proc:/usr/sbin/nologin
-cups-pk-helper:x:113:120:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/bin/zsh
-saned:x:117:123::/var/lib/saned:/usr/bin/bash
-hplip:x:119:7:HPLIP system user,,,:/run/hplip:/bin/zsh
-gdm:x:125:130:Gnome Display Manager:/var/lib/gdm3:/bin/false
-systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/bin/zsh
-statd:x:127:65534::/var/lib/nfs:/usr/sbin/nologin
-stunnel4:x:129:136::/var/run/stunnel4:/usr/bin/zsh
